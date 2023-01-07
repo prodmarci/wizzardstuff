@@ -1,3 +1,3 @@
 # wizzardstuff
 
-Old minecraft plugin addding spells, currently rewriting all code on another repo!
+My old minecraft plugin addding spells, currently rewriting all code on another repo!
